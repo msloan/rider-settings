@@ -1,0 +1,118 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Desktop/EntityComponentSystemSamples-master/Samples/Assets/TwoStickShooter/Classic/Scripts/TwoStickBootstrap.cs" timestamp="1540519954972">
+        <mark key="'" line="10" column="12" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/EntityTest/Assets/Test.cs" timestamp="1540504952444">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="19" column="16" filename="$USER_HOME$/Desktop/EntityComponentSystemSamples-master/Samples/Assets/TwoStickShooter/Classic/Scripts/TwoStickBootstrap.cs" />
+      <jump line="24" column="27" filename="$USER_HOME$/Desktop/EntityComponentSystemSamples-master/Samples/Assets/TwoStickShooter/Classic/Scripts/TwoStickBootstrap.cs" />
+      <jump line="16" column="35" filename="$USER_HOME$/Desktop/EntityComponentSystemSamples-master/Samples/Assets/TwoStickShooter/Classic/Scripts/TwoStickBootstrap.cs" />
+      <jump line="17" column="15" filename="$USER_HOME$/Desktop/EntityComponentSystemSamples-master/Samples/Assets/TwoStickShooter/Classic/Scripts/TwoStickBootstrap.cs" />
+      <jump line="4" column="0" filename="$USER_HOME$/Desktop/EntityComponentSystemSamples-master/Samples/Assets/TwoStickShooter/Classic/Scripts/TwoStickBootstrap.cs" />
+      <jump line="7" column="22" filename="$USER_HOME$/Desktop/EntityComponentSystemSamples-master/Samples/Assets/TwoStickShooter/Classic/Scripts/TwoStickBootstrap.cs" />
+      <jump line="3" column="10" filename="$USER_HOME$/Desktop/EntityComponentSystemSamples-master/Samples/Assets/TwoStickShooter/Classic/Scripts/TwoStickBootstrap.cs" />
+      <jump line="5" column="24" filename="$USER_HOME$/Desktop/EntityComponentSystemSamples-master/Samples/Assets/TwoStickShooter/Classic/Scripts/TwoStickBootstrap.cs" />
+      <jump line="10" column="12" filename="$USER_HOME$/Desktop/EntityComponentSystemSamples-master/Samples/Assets/TwoStickShooter/Classic/Scripts/TwoStickBootstrap.cs" />
+      <jump line="4" column="17" filename="$USER_HOME$/Desktop/EntityComponentSystemSamples-master/Samples/Assets/TwoStickShooter/Classic/Scripts/TwoStickExampleSettings.cs" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>var sceneSwitcher = GameObject.Find(&quot;SceneSwitcher&quot;);</text>
+      </register>
+      <register name="/" type="4">
+        <text>two</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU2V0dGluZ3MuZ2FtZU9iamVjdC5nYW1lT2JqZWN0LmdhbWVPYmplY3QuZ2FtZU9iamVjdDsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU2V0dGluZ3MuZ2FtZU9iamVjdC5nYW1lT2JqZWN0LmdhbWVPYmplY3QuZ2FtZU9iamVjdDsKICAgICAgICAgICAgU2V0dGluZ3MuZ2FtZU9iamVjdDsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2NlbmVTd2l0Y2hlci5nYW1lT2JqZWN0Owo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZ2FtZU9iamVjdC5nYW1lT2JqZWN0Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRzZnNkc2ZzZHNmcwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgIAogICAgICAgIAo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>help incsearch</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>two</last-search>
+      <last-offset />
+      <last-pattern>two</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>newgame</entry>
+        <entry>sceneswi</entry>
+        <entry>twostickboot</entry>
+        <entry>twosti</entry>
+        <entry>two</entry>
+      </history-search>
+      <history-cmd>
+        <entry>set ignorecase smartcase</entry>
+        <entry>set incsearch</entry>
+        <entry>help incsearch</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
