@@ -26,6 +26,7 @@
       <jump line="5" column="24" filename="$USER_HOME$/Desktop/EntityComponentSystemSamples-master/Samples/Assets/TwoStickShooter/Classic/Scripts/TwoStickBootstrap.cs" />
       <jump line="10" column="12" filename="$USER_HOME$/Desktop/EntityComponentSystemSamples-master/Samples/Assets/TwoStickShooter/Classic/Scripts/TwoStickBootstrap.cs" />
       <jump line="4" column="17" filename="$USER_HOME$/Desktop/EntityComponentSystemSamples-master/Samples/Assets/TwoStickShooter/Classic/Scripts/TwoStickExampleSettings.cs" />
+      <jump line="16" column="0" filename="$USER_HOME$/Desktop/EntityComponentSystemSamples-master/Samples/Assets/TwoStickShooter/Hybrid/Scripts/DamageSystem.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
