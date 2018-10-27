@@ -14,6 +14,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="C:/dev/Projects/Galapagos/GalapagosDev/Galapagos/Assets/Scripts/App.cs" timestamp="1540606294600">
+        <mark key="[" line="31" column="44" />
+        <mark key="]" line="33" column="47" />
+        <mark key="^" line="33" column="47" />
+        <mark key="." line="33" column="47" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="19" column="16" filename="$USER_HOME$/Desktop/EntityComponentSystemSamples-master/Samples/Assets/TwoStickShooter/Classic/Scripts/TwoStickBootstrap.cs" />
