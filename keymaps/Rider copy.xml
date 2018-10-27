@@ -1,0 +1,11 @@
+<keymap version="1" name="Rider copy" parent="Rider">
+  <action id="Generate.Missing.Members.TypeScript" />
+  <action id="ImplementMethods" />
+  <action id="OverrideMethods" />
+  <action id="VimMotionJumpNext">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
+  <action id="VimMotionJumpPrevious">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+</keymap>
