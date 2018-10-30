@@ -70,7 +70,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>1</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
@@ -86,7 +86,7 @@
           <IdeaActionID>VimPluginToggle</IdeaActionID>
           <ShortCut>'Ctrl+Alt+V'</ShortCut>
           <Description>Vim Emulator</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
     </option>
